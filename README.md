@@ -12,6 +12,6 @@ Movie Lens Kaggle Data 20M
 
 ## The Approach
 
-User-User Collaborative Filtering
+User-User Collaborative Filtering using Matrix Factorization.
 
 This algorithm first finds the similarity score between users. Based on this similarity score, it then picks out the most similar users and recommends products which these similar users have liked or bought previously.
