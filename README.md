@@ -2,13 +2,15 @@
 
 A recommendation engine filters the data using different algorithms and recommends the most relevant items to users. It first captures the past behavior of a customer and based on that, it recommends products which the users might be likely to buy.
 
+![1](recom.png)
+
 ## Goal
 
 Guess the missing values in the Rating Matrix
 
 ## About the Dataset
 
-Movie Lens Kaggle Data 20M
+Movie Lens Kaggle Data 100k
 
 ## The Approach
 
